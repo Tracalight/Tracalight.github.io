@@ -1,0 +1,12 @@
+.htaccess
+_zip.php
+_test.php
+trash/
+Thumbs.db
+.git
+theme/light
+theme/mill
+theme/minimalism
+theme/minimalmill
+theme/mint
+.DS_Store
